@@ -1,0 +1,4 @@
+<structure name="multipleChoiceList">
+    <structure definition="nabu.cms.choice.manage.rest.choice.multipleChoice" maxOccurs="unbounded" minOccurs="0" name="multipleChoices"/>
+    <structure definition="nabu.services.jdbc.types.Page" minOccurs="0" name="page"/>
+</structure>

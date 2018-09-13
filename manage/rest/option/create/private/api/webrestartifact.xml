@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<restInterface>
+    <method>POST</method>
+    <path>/multipleChoiceOption</path>
+    <role>manager</role>
+    <permissionAction>choice.write</permissionAction>
+    <input>nabu.cms.choice.manage.rest.option.multipleChoiceOptionInput</input>
+    <output>nabu.cms.choice.manage.rest.option.multipleChoiceOption</output>
+    <lenient>false</lenient>
+    <webApplicationId>false</webApplicationId>
+    <language>false</language>
+    <allowFormBinding>false</allowFormBinding>
+    <caseInsensitive>false</caseInsensitive>
+    <cache>false</cache>
+    <allowCookiesWithoutReferer>false</allowCookiesWithoutReferer>
+    <allowCookiesWithExternalReferer>false</allowCookiesWithExternalReferer>
+    <request>false</request>
+</restInterface>

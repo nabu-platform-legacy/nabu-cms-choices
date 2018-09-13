@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<webModule>
+    <path>/api/choice/v1</path>
+    <webFragments>nabu.cms.choice.manage.rest.choice.create</webFragments>
+    <webFragments>nabu.cms.choice.manage.rest.choice.delete</webFragments>
+    <webFragments>nabu.cms.choice.manage.rest.choice.get</webFragments>
+    <webFragments>nabu.cms.choice.manage.rest.choice.list</webFragments>
+    <webFragments>nabu.cms.choice.manage.rest.choice.update</webFragments>
+    <webFragments>nabu.cms.choice.manage.rest.option.create</webFragments>
+    <webFragments>nabu.cms.choice.manage.rest.option.delete</webFragments>
+    <webFragments>nabu.cms.choice.manage.rest.option.get</webFragments>
+    <webFragments>nabu.cms.choice.manage.rest.option.list</webFragments>
+    <webFragments>nabu.cms.choice.manage.rest.option.update</webFragments>
+</webModule>
