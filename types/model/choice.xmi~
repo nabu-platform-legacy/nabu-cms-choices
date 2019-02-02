@@ -1,5 +1,5 @@
 <?xml version = '1.0' encoding = 'UTF-8' ?>
-<XMI xmi.version = '1.2' xmlns:UML = 'org.omg.xmi.namespace.UML' timestamp = 'Thu Sep 13 09:37:49 CEST 2018'>
+<XMI xmi.version = '1.2' xmlns:UML = 'org.omg.xmi.namespace.UML' timestamp = 'Thu Sep 13 09:39:52 CEST 2018'>
   <XMI.header>    <XMI.documentation>
       <XMI.exporter>ArgoUML (using Netbeans XMI Writer version 1.0)</XMI.exporter>
       <XMI.exporterVersion>0.34(6) revised on $Date: 2010-01-11 22:20:14 +0100 (Mon, 11 Jan 2010) $ </XMI.exporterVersion>
@@ -150,21 +150,6 @@
               </UML:ModelElement.taggedValue>
               <UML:StructuralFeature.type>
                 <UML:DataType href = 'http://argouml.org/user-profiles/baseTypes.xmi#be.nabu.uml.xmi:base:types:0000000000000018'/>
-              </UML:StructuralFeature.type>
-            </UML:Attribute>
-            <UML:Attribute xmi.id = '127-0-1-1--7833ae72:165c67a746c:-8000:0000000000000D73'
-              name = 'name' visibility = 'public' isSpecification = 'false' ownerScope = 'instance'
-              changeability = 'changeable' targetScope = 'instance'>
-              <UML:StructuralFeature.multiplicity>
-                <UML:Multiplicity xmi.id = '127-0-1-1--7833ae72:165c67a746c:-8000:0000000000000D74'>
-                  <UML:Multiplicity.range>
-                    <UML:MultiplicityRange xmi.id = '127-0-1-1--7833ae72:165c67a746c:-8000:0000000000000D75'
-                      lower = '1' upper = '1'/>
-                  </UML:Multiplicity.range>
-                </UML:Multiplicity>
-              </UML:StructuralFeature.multiplicity>
-              <UML:StructuralFeature.type>
-                <UML:DataType href = 'http://argouml.org/user-profiles/baseTypes.xmi#be.nabu.uml.xmi:base:types:0000000000000001'/>
               </UML:StructuralFeature.type>
             </UML:Attribute>
           </UML:Classifier.feature>
