@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataModel>
+    <entries>
+        <synchronize>true</synchronize>
+        <type>nabu.cms.choice.types.model.choice.MultipleChoice</type>
+        <x>297</x>
+        <y>142</y>
+    </entries>
+    <entries>
+        <synchronize>true</synchronize>
+        <type>nabu.cms.choice.types.model.choice.MultipleChoiceOption</type>
+        <x>317</x>
+        <y>371</y>
+    </entries>
+</dataModel>
